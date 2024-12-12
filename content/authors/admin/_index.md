@@ -3,7 +3,7 @@
 title: 炊道夫
 
 # Name pronunciation (optional)
-name_pronunciation: Chuidaofu 
+name_pronunciation:  
 
 # Full name (for SEO)
 first_name: Weishuai 
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ecology Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
