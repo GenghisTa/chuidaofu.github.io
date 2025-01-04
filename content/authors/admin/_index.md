@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 炊道夫
+title: 任远
 
 # Name pronunciation (optional)
 name_pronunciation:  
 
 # Full name (for SEO)
-first_name: Weishuai 
-last_name: Ta
+first_name: Yuan 
+last_name: Ren
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: Ecology Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UCAS
-    url: https://www.ucas.ac.cn/
+  - name: ZAFU
+    url: https://www.zafu.edu.cn/
 
 
 # Social network links
@@ -53,8 +53,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Ecology
+    institution: Zhejiang University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
