@@ -66,6 +66,8 @@ education:
     institution: Nanjing Agricultural University
     date_start: 2006-09
     date_end: 2010-06
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -165,5 +167,5 @@ awards:
 ---
 
 ## 本站
-
+分享：生态学 经典、前沿文献，实用、效率工具，统计、语言学习，数据、绘图方法 和 其他内容。多少事，从来急；天地转，光阴迫。一万年太久，只争朝夕。 雄关漫道真如铁，而今迈步从头越。丢掉幻想，准备战斗！世界是我们的，做事靠大家来。公众号：炊道夫，欢迎关注！
 
