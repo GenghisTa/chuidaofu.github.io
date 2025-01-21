@@ -47,8 +47,8 @@ sections:
       title: '👥 Lab Members'
       subtitle: ''
       text: |-
-        ### [董雯](/authors/dongwen/)
-        ![dongwen的照片](/static/img/dongwen.png){width=569, height=749, align=center} 
+        ### [董雯](/content/authors/dongwen/_index.md)
+        ![dongwen的照片](/content/dongwen.png){width=569, height=749, align=center} 
         研究方向：生态系统服务  
         个人简介：对生态系统服务领域有着浓厚兴趣，擅长利用数据科学方法进行研究。
 
