@@ -1,20 +1,22 @@
 ---
-# Leave the homepage title empty to use the site title
+# 定义首页的基本信息和布局
 title: ""
 date: 2022-10-24
 type: landing
 
+# 设计部分，包括间距等配置
 design:
-  # Default section spacing
+  # 默认的板块间距
   spacing: "6rem"
 
+# 定义页面的不同板块内容和设计
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # 选择要显示的用户概况（`content/authors/`目录下的文件夹名称）
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
+      # 是否在个人简介下方显示一个行动号召按钮？（可选）
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -23,7 +25,7 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
+          # 添加您的背景图片到`assets/media/`目录
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -41,6 +43,7 @@ sections:
         
         Please reach out to collaborate 😃
     design:
+      # 设置板块的列数
       columns: '1'
   - block: collection
     id: papers
@@ -51,7 +54,9 @@ sections:
           - publication
         featured_only: true
     design:
+      # 设置视图模式为文章网格
       view: article-grid
+      # 设置显示的列数
       columns: 2
   - block: collection
     content:
@@ -62,6 +67,18 @@ sections:
           - publication
         exclude_featured: false
     design:
+      # 设置视图模式为引用
+      view: citation
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      # 设置视图模式为引用
       view: citation
   - block: collection
     id: talks
@@ -71,7 +88,9 @@ sections:
         folders:
           - event
     design:
+      # 设置视图模式为文章网格
       view: article-grid
+      # 设置显示的列数
       columns: 1
   - block: collection
     id: news
@@ -79,11 +98,11 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
+      # 设置要显示的页面类型
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
+      # 设置要显示的页面数量（0表示显示所有页面）
       count: 5
-      # Filter on criteria
+      # 设置过滤条件
       filters:
         author: ""
         category: ""
@@ -92,18 +111,18 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
+      # 设置页面偏移量
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
+      # 设置页面排序方式，按降序（desc）或升序（asc）排列
       order: desc
     design:
-      # Choose a layout view
+      # 选择卡片视图的模式
       view: date-title-summary
-      # Reduce spacing
+      # 减少间距
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: true # 只在 Hugo Blox Builder 演示站点中显示此板块
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -119,7 +138,8 @@ sections:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
+        # 设置卡片背景颜色（CSS 类）
         css_class: "bg-primary-700"
         css_style: ""
+---        css_style: ""
 ---
