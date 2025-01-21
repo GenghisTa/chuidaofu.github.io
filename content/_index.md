@@ -1,22 +1,20 @@
 ---
-# 定义首页的基本信息和布局
+# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
-# 设计部分，包括间距等配置
 design:
-  # 默认的板块间距
+  # Default section spacing
   spacing: "6rem"
 
-# 定义页面的不同板块内容和设计
 sections:
   - block: resume-biography-3
     content:
-      # 选择要显示的用户概况（`content/authors/`目录下的文件夹名称）
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # 是否在个人简介下方显示一个行动号召按钮？（可选）
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -25,7 +23,7 @@ sections:
       background:
         color: black
         image:
-          # 添加您的背景图片到`assets/media/`目录
+          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -43,7 +41,24 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      # 设置板块的列数
+      columns: '1'
+  - block: markdown
+    content:
+      title: '👥 Lab Members'
+      subtitle: ''
+      text: |-
+        ### 张伟
+        研究方向：机器学习算法优化  
+        个人简介：拥有十年以上机器学习领域研究经验，专注于算法优化与性能提升。
+
+        ### 李娜
+        研究方向：数据挖掘与分析  
+        个人简介：在数据挖掘和分析方面有着深厚的背景，擅长处理大规模数据集。
+
+        ### 王强
+        研究方向：自然语言处理  
+        个人简介：对自然语言处理有浓厚兴趣，尤其在文本分类和情感分析上的研究取得了一定成果。
+    design:
       columns: '1'
   - block: collection
     id: papers
@@ -54,9 +69,7 @@ sections:
           - publication
         featured_only: true
     design:
-      # 设置视图模式为文章网格
       view: article-grid
-      # 设置显示的列数
       columns: 2
   - block: collection
     content:
@@ -67,18 +80,6 @@ sections:
           - publication
         exclude_featured: false
     design:
-      # 设置视图模式为引用
-      view: citation
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      # 设置视图模式为引用
       view: citation
   - block: collection
     id: talks
@@ -88,9 +89,7 @@ sections:
         folders:
           - event
     design:
-      # 设置视图模式为文章网格
       view: article-grid
-      # 设置显示的列数
       columns: 1
   - block: collection
     id: news
@@ -98,11 +97,11 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # 设置要显示的页面类型
+      # Page type to display. E.g. post, talk, publication...
       page_type: post
-      # 设置要显示的页面数量（0表示显示所有页面）
+      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # 设置过滤条件
+      # Filter on criteria
       filters:
         author: ""
         category: ""
@@ -111,18 +110,18 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # 设置页面偏移量
+      # Choose how many pages you would like to offset by
       offset: 0
-      # 设置页面排序方式，按降序（desc）或升序（asc）排列
+      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # 选择卡片视图的模式
+      # Choose a layout view
       view: date-title-summary
-      # 减少间距
+      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # 只在 Hugo Blox Builder 演示站点中显示此板块
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -135,6 +134,13 @@ sections:
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
+---        text: Get Started
         url: https://hugoblox.com/templates/
     design:
       card:
