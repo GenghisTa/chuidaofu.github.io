@@ -11,7 +11,7 @@ last_name: Ren
 
 # Status emoji
 status:
-  icon: 🐉
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,7 +32,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:renyuan@zafu.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -48,42 +48,24 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Ecology
+  - Sustainable Ecology
+  - Atmospheric Sciences
 
 education:
   - area: PhD Ecology
     institution: Zhejiang University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2010-09
+    date_end: 2015-12
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc 
+    institution: Nanjing Agricultural University
+    date_start: 2006-09
+    date_end: 2010-06
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -184,4 +166,4 @@ awards:
 
 ## 本站
 
-分享：生态学 经典、前沿文献，实用、效率工具，统计、语言学习，数据、绘图方法 和 其他内容。多少事，从来急；天地转，光阴迫。一万年太久，只争朝夕。 雄关漫道真如铁，而今迈步从头越。丢掉幻想，准备战斗！世界是我们的，做事靠大家来。公众号：炊道夫，欢迎关注！
+
