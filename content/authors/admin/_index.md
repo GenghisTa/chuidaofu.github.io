@@ -54,8 +54,8 @@ interests:
 education:
   - area: Postdoctoral Researcher
     institution: Zhejiang University
-    date_start: 2016-01
-    date_end: 2018-04
+    date_start: 2016-01-01
+    date_end: 2018-04-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://example.com'
   - area: PhD Ecology
     institution: Zhejiang University
-    date_start: 2010-09
-    date_end: 2015-12
+    date_start: 2010-09-01
+    date_end: 2015-12-01
     summary: |
       GPA: 3.8/4.0
 
@@ -74,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Nanjing Agricultural University
-    date_start: 2006-09
-    date_end: 2010-06
+    date_start: 2006-09-01
+    date_end: 2010-06-01
     summary: |
       GPA: 3.4/4.0
       
