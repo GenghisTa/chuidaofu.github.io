@@ -63,8 +63,7 @@ sections:
         个人简介：对自然语言处理有浓厚兴趣，尤其在文本分类和情感分析上的研究取得了一定成果。  
       filters:
         folders:
-          - authors
-      subtitle: ''
+          - event
     design:
       columns: 1
   - block: collection
