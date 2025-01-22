@@ -51,7 +51,7 @@ interests:
   - Sustainable Ecology
   - Atmospheric Sciences
 
-experience:
+education:
   - area: Postdoctoral Researcher
     institution: Zhejiang University
     date_start: 2016-01-01
