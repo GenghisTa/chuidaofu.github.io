@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: authors
+    id: team
     content:
       title: '👥 Lab Members'
       text: |-
