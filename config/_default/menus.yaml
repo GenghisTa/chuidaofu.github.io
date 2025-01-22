@@ -5,7 +5,7 @@
 
 main:
   - name: Team
-    url: /#team
+    url: /
     weight: 10
   - name: Papers
     url: /#papers

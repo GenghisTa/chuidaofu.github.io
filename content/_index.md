@@ -42,8 +42,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: team
+  - block: markdown
     content:
       title: '👥 Lab Members'
       text: |-
@@ -61,11 +60,8 @@ sections:
         ![dongwen的照片](/static/img/dongwen.png){width=569, height=749, align=center} 
         研究方向：自然语言处理  
         个人简介：对自然语言处理有浓厚兴趣，尤其在文本分类和情感分析上的研究取得了一定成果。  
-      filters:
-        folders:
-          - event
     design:
-      columns: 1
+      columns: '1'
   - block: collection
     id: papers
     content:
