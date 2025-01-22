@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-01-24
+date: 2022-10-24
 type: landing
 
 design:
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Our Research'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
@@ -40,26 +40,6 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: '👥 Lab Members'
-      text: |-
-        ### [董雯](content/authors/dongwen/_index.md)
-        ![dongwen的照片](/content/dongwen.png){width=569, height=749, align=center} 
-        研究方向：生态系统服务  
-        个人简介：对生态系统服务领域有着浓厚兴趣，擅长利用数据科学方法进行研究。
-
-        ### [李娜](/authors/lina/)
-        ![dongwen的照片](/static/img/dongwen.png){width=569, height=749, align=center} 
-        研究方向：数据挖掘与分析  
-        个人简介：在数据挖掘和分析方面有着深厚的背景，擅长处理大规模数据集。
-
-        ### [王强](/authors/wangqiang/)
-        ![dongwen的照片](/static/img/dongwen.png){width=569, height=749, align=center} 
-        研究方向：自然语言处理  
-        个人简介：对自然语言处理有浓厚兴趣，尤其在文本分类和情感分析上的研究取得了一定成果。  
     design:
       columns: '1'
   - block: collection
