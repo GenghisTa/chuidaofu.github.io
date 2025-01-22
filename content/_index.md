@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications
@@ -72,7 +72,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     id: news
     content:
