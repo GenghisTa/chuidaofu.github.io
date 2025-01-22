@@ -43,6 +43,15 @@ sections:
     design:
       columns: '1'
   - block: collection
+    content:
+      title: Team mambers
+      filters:
+        folders:
+          - bbl
+    design:
+      view: article-grid
+      columns: 5
+  - block: collection
     id: papers
     content:
       title: Featured Publications
