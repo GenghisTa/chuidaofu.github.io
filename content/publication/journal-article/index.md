@@ -4,7 +4,7 @@ authors:
 - admin
 - Ying Ge
 - Danping Ma
-- *et al*.
+- et al.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
