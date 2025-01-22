@@ -51,7 +51,7 @@ interests:
   - Sustainable Ecology
   - Atmospheric Sciences
 
-education:
+education & work experience:
   - area: Postdoctoral Researcher
     institution: Zhejiang University
     date_start: 2016-01-01
@@ -66,7 +66,7 @@ education:
     date_start: 2010-09-01
     date_end: 2015-12-01
     summary: |
-      GPA: 3.8/4.0
+      
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -77,7 +77,7 @@ education:
     date_start: 2006-09-01
     date_end: 2010-06-01
     summary: |
-      GPA: 3.4/4.0
+      
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -145,7 +145,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
