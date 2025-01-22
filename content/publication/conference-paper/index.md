@@ -8,7 +8,7 @@ authors:
   - admin
   - Zelong Qu
   - Yuanyuan Du
-  *et al*.
+  - *et al*.
 
 # Author notes (optional)
 author_notes:
