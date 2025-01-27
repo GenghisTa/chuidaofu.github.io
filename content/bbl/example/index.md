@@ -16,7 +16,7 @@ title: Wen Dong
 
 # 摘要信息
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+About me: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # 讲座开始和结束时间
 date: '2025-01-23T13:00:00Z'
@@ -48,16 +48,14 @@ image:
 # url_video: 'https://youtube.com'
 
 # Markdown 演讲稿（可选）
-#slides: ""
+# slides: ""
 
 # 项目关联（可选）
 projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+# Wen Dong
 
 Slides can be added in a few ways:
 
