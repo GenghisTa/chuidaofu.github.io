@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:renyuan@zafu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Yuan-Ren-17/research
+  - icon: university
+    url: https://www.zafu.edu.cn/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: brands/user
+    url: https://sky.zafu.edu.cn/info/1192/5666.htm
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://sciprofiles.com/profile/SiqiShao
 
 interests:
   - Urban Ecology

@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Air quality and health effects of biogenic volatile organic compounds emissions from urban green spaces and the mitigation strategies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,7 +8,15 @@ authors:
   - admin
   - Zelong Qu
   - Yuanyuan Du
-  - et al.
+  - Ronghua Xu 
+  - Danping Ma 
+  - Guofu Yang
+  - Yan Shi
+  - Xing Fan
+  - Akira Tani
+  - Peipei Guo
+  - Ying Ge
+  - Jie Chang*
 
 # Author notes (optional)
 author_notes:
@@ -27,10 +35,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: "*Environmental Pollution*, 230: 849-861"
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Biogenic volatile organic compounds (BVOCs) emissions lead to fine particulate matter (PM2.5) and ground-level ozone pollution, and are harmful to human health, especially in urban areas. However, most BVOCs estimations ignored the emissions from urban green spaces, causing inaccuracies in the understanding of regional BVOCs emissions and their environmental and health effects. In this study, we used the latest local vegetation datasets from our field survey and applied an estimation model to analyze the spatial-temporal patterns, air quality impacts, health damage and mitigating strategies of BVOCs emissions in the Greater Beijing Area. Results showed that:(1) the urban core was the hotspot of regional BVOCs emissions for the highest region-based emission intensity (3.0 g C m−2 yr−1) among the 11 sub-regions; (2) urban green spaces played much more important roles (account for 62% of total health damage) than rural forests in threating human health; (3) BVOCs emissions from green spaces will more than triple by 2050 due to urban area expansion, tree growth and environmental changes; and (4) adopting proactive management (e.g. adjusting tree species composition) can reduce 61% of the BVOCs emissions and 50% of the health damage related to BVOCs emissions by 2050.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +46,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '20px', '0']
+    padding: ['0', '0', '0', '0']
     
 tags:
   - Large Language Models
