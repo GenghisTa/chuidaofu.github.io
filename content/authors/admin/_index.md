@@ -35,12 +35,12 @@ profiles:
     label: E-mail Me
   - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Yuan-Ren-17/research
-  - icon: university
-    url: https://www.zafu.edu.cn/
+  - icon: envelope
+    url: https://sky.zafu.edu.cn/info/1192/5666.htm
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/user
-    url: https://sky.zafu.edu.cn/info/1192/5666.htm
+ # - icon: brands/linkedin
+ #   url: https://sky.zafu.edu.cn/info/1192/5666.htm
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid

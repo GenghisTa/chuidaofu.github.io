@@ -23,8 +23,8 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2017-06-01T00:00:00Z'
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -36,9 +36,9 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Environmental Pollution*, 230: 849-861"
-publication_short: In *ICW*
+publication_short: ""
 
-abstract: Biogenic volatile organic compounds (BVOCs) emissions lead to fine particulate matter (PM2.5) and ground-level ozone pollution, and are harmful to human health, especially in urban areas. However, most BVOCs estimations ignored the emissions from urban green spaces, causing inaccuracies in the understanding of regional BVOCs emissions and their environmental and health effects. In this study, we used the latest local vegetation datasets from our field survey and applied an estimation model to analyze the spatial-temporal patterns, air quality impacts, health damage and mitigating strategies of BVOCs emissions in the Greater Beijing Area. Results showed that:(1) the urban core was the hotspot of regional BVOCs emissions for the highest region-based emission intensity (3.0 g C m−2 yr−1) among the 11 sub-regions; (2) urban green spaces played much more important roles (account for 62% of total health damage) than rural forests in threating human health; (3) BVOCs emissions from green spaces will more than triple by 2050 due to urban area expansion, tree growth and environmental changes; and (4) adopting proactive management (e.g. adjusting tree species composition) can reduce 61% of the BVOCs emissions and 50% of the health damage related to BVOCs emissions by 2050.
+# abstract: Biogenic volatile organic compounds (BVOCs) emissions lead to fine particulate matter (PM2.5) and ground-level ozone pollution, and are harmful to human health, especially in urban areas. However, most BVOCs estimations ignored the emissions from urban green spaces, causing inaccuracies in the understanding of regional BVOCs emissions and their environmental and health effects. In this study, we used the latest local vegetation datasets from our field survey and applied an estimation model to analyze the spatial-temporal patterns, air quality impacts, health damage and mitigating strategies of BVOCs emissions in the Greater Beijing Area. Results showed that:(1) the urban core was the hotspot of regional BVOCs emissions for the highest region-based emission intensity (3.0 g C m−2 yr−1) among the 11 sub-regions; (2) urban green spaces played much more important roles (account for 62% of total health damage) than rural forests in threating human health; (3) BVOCs emissions from green spaces will more than triple by 2050 due to urban area expansion, tree growth and environmental changes; and (4) adopting proactive management (e.g. adjusting tree species composition) can reduce 61% of the BVOCs emissions and 50% of the health damage related to BVOCs emissions by 2050.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,23 +58,26 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+links:
+ - name: Doi
+   url: https://doi.org/10.1016/j.envpol.2017.06.049
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ''
   preview_only: false
-
+# 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -90,13 +93,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+## Abstract
+Biogenic volatile organic compounds (BVOCs) emissions lead to fine particulate matter ($PM_{2.5}$) and ground-level ozone pollution, and are harmful to human health, especially in urban areas. However, most BVOCs estimations ignored the emissions from urban green spaces, causing inaccuracies in the understanding of regional BVOCs emissions and their environmental and health effects. In this study, we used the latest local vegetation datasets from our field survey and applied an estimation model to analyze the spatial-temporal patterns, air quality impacts, health damage and mitigating strategies of BVOCs emissions in the Greater Beijing Area. Results showed that:(1) the urban core was the hotspot of regional BVOCs emissions for the highest region-based emission intensity ($3.0 g C m^{−2} yr^{−1}$) among the 11 sub-regions; (2) urban green spaces played much more important roles (account for 62% of total health damage) than rural forests in threating human health; (3) BVOCs emissions from green spaces will more than triple by 2050 due to urban area expansion, tree growth and environmental changes; and (4) adopting proactive management (e.g. adjusting tree species composition) can reduce 61% of the BVOCs emissions and 50% of the health damage related to BVOCs emissions by 2050.
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
