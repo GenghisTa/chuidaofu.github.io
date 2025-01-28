@@ -32,12 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Our Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Our research primarily focuses on the intersection of urban ecology, sustainable ecology, and atmospheric science. In recent years, We have been exploring how ecosystems respond and adapt to environmental changes during urbanization. Specifically, we are interested in the role of urban green spaces in improving air quality and mitigating the urban heat island effect. We also study the impacts of urbanization on biodiversity and how to protect the ecosystem services of urban areas. Additionally, we have conducted in-depth research on the sources, transport, and transformation of air pollutants to provide scientific evidence for improving urban air quality.
+        
+        In the future, we will continue to delve deeper into urban ecology, with a focus on the adaptability of urban ecosystems under climate change, the valuation of ecosystem services, and the refined management of urban ecosystems. We hope that through our research, we can contribute to building more livable and sustainable cities.
         
         Please reach out to collaborate 😃
     design:
