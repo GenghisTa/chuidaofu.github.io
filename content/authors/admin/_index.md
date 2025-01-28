@@ -33,14 +33,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:renyuan@zafu.edu.cn'
     label: E-mail Me
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Yuan-Ren-17/research
   - icon: hero/envelope
     url: https://sky.zafu.edu.cn/info/1192/5666.htm
-  - icon: brands/github
-    url: https://github.com/gcushen
+    label: About me 
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Yuan-Ren-17/research
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
   - icon: academicons/orcid
     url: https://sciprofiles.com/profile/SiqiShao
 

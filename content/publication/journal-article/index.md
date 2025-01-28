@@ -15,8 +15,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.ufug.2017.08.011"
+date: "2017-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,15 +32,19 @@ publication_short: ""
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.Promoting the plant diversity of urban green spaces is crucial to increase ecosystem services in urban areas. While introducing ornamental plants can enhance the biodiversity of green spaces it risks environmental impacts such as increasing emissions of biogenic volatile organic compounds (BVOCs) that are harmful to air quality and human health. The present study, taking Qingdao City as a case study, evaluated the plant diversity and BVOC emissions of urban green spaces and tried to find out a solution to increase biodiversity while reducing BVOC emissions. Results showed that:(1) the species diversity and phylogenetic diversity of trees in urban green spaces were 22% and 16% lower than rural forest of this region; (2) urban areas had higher BVOC emission intensity (2.6 g C m−2 yr−1) than their rural surroundings (2.1 g C m−2 yr $^−1$ ); (3) introducing the selected 11 tree species will increase 15% and 11% of species diversity and phylogenetic diversity, respectively; and (4) the BVOC emissions from green spaces will more than triple by 2050, but a moderate introduction of the selected low-emitting trees species could reduce 34% of these emissions. The scheme of introducing low-emitting ornamental species leads to a win–win situation and also has implications for the sustainable green space management of other cities.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Urban Ecology
+- Atmospheric Sciences
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
+links:
+ - name: Dio
+   url: https://doi.org/10.1016/j.ufug.2017.08.011
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
@@ -73,12 +76,5 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+## Abstract
+Promoting the plant diversity of urban green spaces is crucial to increase ecosystem services in urban areas. While introducing ornamental plants can enhance the biodiversity of green spaces it risks environmental impacts such as increasing emissions of biogenic volatile organic compounds (BVOCs) that are harmful to air quality and human health. The present study, taking Qingdao City as a case study, evaluated the plant diversity and BVOC emissions of urban green spaces and tried to find out a solution to increase biodiversity while reducing BVOC emissions. Results showed that: (1) the species diversity and phylogenetic diversity of trees in urban green spaces were 22% and 16% lower than rural forest of this region; (2) urban areas had higher BVOC emission intensity ( $2.6 g C m^{−2} yr^{−1}$ ) than their rural surroundings ( $2.1 g C m^{−2} yr^{−1}$ ); (3) introducing the selected 11 tree species will increase 15% and 11% of species diversity and phylogenetic diversity, respectively; and (4) the BVOC emissions from green spaces will more than triple by 2050, but a moderate introduction of the selected low-emitting trees species could reduce 34% of these emissions. The scheme of introducing low-emitting ornamental species leads to a win–win situation and also has implications for the sustainable green space management of other cities.
