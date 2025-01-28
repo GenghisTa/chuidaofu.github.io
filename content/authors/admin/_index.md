@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:renyuan@zafu.edu.cn'
     label: E-mail Me
-  - icon: brands/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Yuan-Ren-17/research
-  - icon: envelope
+  - icon: custom/researchgate
     url: https://sky.zafu.edu.cn/info/1192/5666.htm
   - icon: brands/github
     url: https://github.com/gcushen
