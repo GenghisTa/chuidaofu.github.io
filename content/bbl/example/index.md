@@ -1,5 +1,5 @@
 ---
-title: Wen Dong
+title: Yingying Qiu
 
 # 会议名称和链接
 # event: Hugo Blox Builder Conference
@@ -15,8 +15,8 @@ title: Wen Dong
 #   country: United States
 
 # 摘要信息
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-About me: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+#About me: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # 讲座开始和结束时间
 date: '2025-01-23T13:00:00Z'
